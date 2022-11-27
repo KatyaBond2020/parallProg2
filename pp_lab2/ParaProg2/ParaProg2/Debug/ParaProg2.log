@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ParaProg2.cpp
+D:\download\Учёба\2 курс\2 симак\Параллельное программирование\2\ParaProg2\ParaProg2\ParaProg2.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ParaProg2.vcxproj -> D:\download\Учёба\2 курс\2 симак\Параллельное программирование\2\ParaProg2\Debug\ParaProg2.exe
